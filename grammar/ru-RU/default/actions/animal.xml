@@ -7,6 +7,7 @@
     <Phrases>
         <string>контроль за животными</string>
         <string>службу контроля за животными</string>
+        <string>служба контроля за животными</string>
         <string>одинадцать тринадцать</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Animal</Target>
