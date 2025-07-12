@@ -27,5 +27,7 @@
         <string>нужено</string>
         <string>нужна</string>
         <string>нужны</string>
+        <string>требуется</string>
+        <string>требуются</string>
     </Phrases>
 </Command>
